@@ -1,3 +1,2 @@
 # exercicio_pcea
-
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Um dos temas essenciais abordados na matéria de Programação e Arquitetura de Computadores (PCA), é o licenciamento de software, e aqui vai um breve resumo sobre o assunto: Visa proteger as criações intelectuais ao garantir ao autor direitos sobre o uso e a distribuição de seu trabalho. A legislação, em diversos países como o Brasil, protege tanto os direitos morais, que são intransferíveis e asseguram o reconhecimento da autoria e a integridade da obra, quanto os direitos patrimoniais, que podem ser transferidos e permitem ao autor decidir como sua obra será explorada economicamente. O licenciamento, portanto, é a ferramenta que permite ao autor controlar o uso de seu software, oferecendo opções de licenças, como as de código aberto e as Creative Commons, que apresentam diferentes níveis de permissões de uso e adaptação
